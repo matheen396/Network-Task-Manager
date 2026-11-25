@@ -1,0 +1,6 @@
+/build/
+/data/
+*.log
+*.tmp
+.vs/
+.idea/
